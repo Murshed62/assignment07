@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* font-family: 'Poppins', sans-serif; */
+
+header{
+background-color: #F0FFF0;
+}
+.btn-signIn{
+
+background-color: #21B573;
+
+color: #fff;
+
+text-transform: capitalize;
+
+border-radius: 30px;
+
+padding: 4px 25px;
+}
+.btn-signIn:hover{
+    background-color: #458b30;
+    color: #ffff;
+}
+.nav-item{
+    margin-left: 15px;
+}
+.banner_height{
+    min-height: 70vh;
+    align-items: center;
+}
+.banner_content{
+    
+}
+.banner_content h5{
+    
+font-family: 'Poppins';
+    
+font-style: normal;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 24px;
+}
+.banner_content h1{
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight: 700;
+
+font-size: 48px;
+
+line-height: 70px;
+}
+.banner_content p{
+    
+font-family: 'Poppins';
+    
+font-style: normal;
+    
+font-weight: 400;
+    
+font-size: 16px;
+    
+line-height: 36px;
+}
+.banner_content h1 span{
+
+}
+.banner_content button{
+
+}
+.feature{
+    
+}
+.single_feature{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+
+}
+.single_feature img{
+
+/* margin-bottom: 5px; */
+
+width: 70px;
+}
+.single_feature h3{
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight: 500;
+
+font-size: 24px;
+
+line-height: 36px;
+}
+.single_feature p{
+
+font-family: 'Poppins';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 16px;
+
+line-height: 24px;
+}
+.book img{
+    width: 55px;
+}
+.single_feature:hover{
+background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.card_design{
+background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+.button{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+background: #21B573;
+border-radius: 33px;
+}
+.text{
+    
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 24px;
+color: #585859;
+}
+.testi{
+    align-items: center;
+}
+.testi img{
+    width: 50%;
+}
+.testi p{
+    width: 65%;
+}
+footer{
+    background-color: #282531;
+    color: #ffff;
+}
+.first p {
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+}
+.second p{
+font-family: 'Poppins';
+font-style: normal;
+font-size: 18px;
+line-height: 30px;
+width: 74%;
+}
+.third p{
+font-family: 'Poppins';
+font-style: normal;
+font-size: 16px;
+line-height: 30px;
+width: 62%;
+}
+.four p{
+font-family: 'Poppins';
+font-style: normal;
+font-size: 16px;
+line-height: 30px;
+width: 62%;
+}
+.copy{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+color: #CDCDCD;
+}
